@@ -1,0 +1,864 @@
+[0425/171638.252:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/171638.278:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/171638.316:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/171638.346:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/171638.364:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/171638.384:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/171638.409:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/171638.439:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/171638.461:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/171638.496:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/171638.736:WARNING:stunport.cc(384)] Jingle:Port[08F87028:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.740:WARNING:stunport.cc(384)] Jingle:Port[08F83860:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.744:WARNING:stunport.cc(384)] Jingle:Port[08F83DB0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.746:WARNING:stunport.cc(384)] Jingle:Port[08F86AD8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.755:WARNING:stunport.cc(384)] Jingle:Port[08F87028:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.758:WARNING:stunport.cc(384)] Jingle:Port[08F83860:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.759:WARNING:stunport.cc(384)] Jingle:Port[08F83DB0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.759:WARNING:stunport.cc(384)] Jingle:Port[08F86AD8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.764:WARNING:stunport.cc(384)] Jingle:Port[08F86D80:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.764:WARNING:stunport.cc(384)] Jingle:Port[08F86D80:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.800:WARNING:stunport.cc(384)] Jingle:Port[08E6FFB8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.801:WARNING:stunport.cc(384)] Jingle:Port[08E6FFB8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.805:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[083431D8:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.810:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08343910:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.811:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[083442B0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.812:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08344048:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.819:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08344518:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.820:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08343B78:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.839:WARNING:stunport.cc(384)] Jingle:Port[08E6EA78:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.841:WARNING:stunport.cc(384)] Jingle:Port[08E6EA78:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.841:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08344780:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.843:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08342F70:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.844:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08343DE0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.845:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[083449E8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.875:WARNING:stunport.cc(384)] Jingle:Port[08E6FD10:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.879:WARNING:stunport.cc(384)] Jingle:Port[08E6FD10:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.885:WARNING:stunport.cc(384)] Jingle:Port[08ECF880:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.886:WARNING:stunport.cc(384)] Jingle:Port[08ECF880:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.896:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08344C50:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.901:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F39910:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.919:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F368F0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.920:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F36B58:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.963:WARNING:stunport.cc(384)] Jingle:Port[08F3D670:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.965:WARNING:stunport.cc(384)] Jingle:Port[08F3D670:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171638.974:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F37028:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.975:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F37290:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.983:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F385D0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171638.985:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F38838:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171639.041:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F36DC0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171639.047:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F38100:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171645.207:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=1
+[0425/171700.645:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171700.645:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171700.646:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171700.646:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171700.646:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171700.646:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171700.677:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=2
+[0425/171700.697:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=3
+[0425/171700.717:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=4
+[0425/171700.737:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=5
+[0425/171700.646:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171700.757:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=6
+[0425/171700.772:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171704.595:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=7
+[0425/171704.615:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=8
+[0425/171704.635:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=9
+[0425/171704.655:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=10
+[0425/171704.675:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=11
+[0425/171704.695:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=12
+[0425/171704.715:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=13
+[0425/171704.735:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=14
+[0425/171704.755:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=15
+[0425/171704.775:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=16
+[0425/171704.795:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=17
+[0425/171704.815:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=18
+[0425/171704.835:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=19
+[0425/171704.855:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=20
+[0425/171704.875:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=21
+[0425/171704.895:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=22
+[0425/171704.915:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=23
+[0425/171704.935:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=24
+[0425/171704.955:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=25
+[0425/171704.975:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=26
+[0425/171704.995:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=27
+[0425/171705.015:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=28
+[0425/171705.036:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=29
+[0425/171705.056:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=30
+[0425/171705.076:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=31
+[0425/171705.096:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=32
+[0425/171705.116:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=33
+[0425/171705.136:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=34
+[0425/171705.156:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=35
+[0425/171705.176:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=36
+[0425/171705.196:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=37
+[0425/171705.216:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=38
+[0425/171705.236:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=39
+[0425/171705.256:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=40
+[0425/171705.276:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=41
+[0425/171705.296:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=42
+[0425/171705.316:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=43
+[0425/171705.336:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=44
+[0425/171705.356:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=45
+[0425/171705.376:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=46
+[0425/171705.396:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=47
+[0425/171705.416:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=48
+[0425/171705.436:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=49
+[0425/171705.456:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=50
+[0425/171705.476:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=51
+[0425/171705.496:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=52
+[0425/171705.516:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=53
+[0425/171705.536:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=54
+[0425/171705.556:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=55
+[0425/171705.576:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=56
+[0425/171705.596:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=57
+[0425/171705.616:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=58
+[0425/171705.636:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=59
+[0425/171705.656:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=60
+[0425/171705.676:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=61
+[0425/171705.696:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=62
+[0425/171705.716:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=63
+[0425/171705.736:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=64
+[0425/171705.756:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=65
+[0425/171705.776:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=66
+[0425/171705.796:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=67
+[0425/171705.816:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=68
+[0425/171705.836:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=69
+[0425/171705.856:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=70
+[0425/171705.876:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=71
+[0425/171705.896:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=72
+[0425/171705.917:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=73
+[0425/171705.937:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=74
+[0425/171705.957:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=75
+[0425/171705.977:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=76
+[0425/171705.997:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=77
+[0425/171706.017:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=78
+[0425/171706.037:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=79
+[0425/171706.057:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=80
+[0425/171706.077:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=81
+[0425/171706.097:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=82
+[0425/171706.117:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=83
+[0425/171706.137:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=84
+[0425/171706.157:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=85
+[0425/171706.177:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=86
+[0425/171706.197:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=87
+[0425/171706.217:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=88
+[0425/171706.237:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=89
+[0425/171706.257:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=90
+[0425/171706.277:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=91
+[0425/171706.297:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=92
+[0425/171706.317:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=93
+[0425/171706.337:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=94
+[0425/171706.357:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=95
+[0425/171706.377:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=96
+[0425/171706.397:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=97
+[0425/171706.417:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=98
+[0425/171706.437:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=99
+[0425/171706.457:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=100
+[0425/171706.457:WARNING:audio_sync_reader.cc(191)] (log cap reached, suppressing further logs)
+[0425/171707.508:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171707.508:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171707.508:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171707.509:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171707.509:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171707.648:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171707.648:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.473:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.473:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.473:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.474:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.474:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.474:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.476:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.478:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.607:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.608:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.608:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.608:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.608:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.608:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.695:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.702:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.704:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.704:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.704:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.704:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.705:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.705:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.705:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.714:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.714:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.715:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.715:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.715:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.716:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.717:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.717:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.799:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.799:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.801:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.801:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.801:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.802:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.802:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171708.825:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171718.679:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:49926 (any)
+[0425/171718.679:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60230 (any)
+[0425/171718.679:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60232 (any)
+[0425/171718.679:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60234 (any)
+[0425/171718.680:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60236 (any)
+[0425/171718.680:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60238 (any)
+[0425/171718.680:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60240 (any)
+[0425/171718.680:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60242 (any)
+[0425/171718.680:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60244 (any)
+[0425/171718.838:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60246 (any)
+[0425/171843.029:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/171843.035:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/171843.035:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/171843.232:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F38AA0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171843.233:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F38D08:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171843.255:WARNING:stunport.cc(384)] Jingle:Port[09297950:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171843.256:WARNING:stunport.cc(384)] Jingle:Port[09297950:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171852.435:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/171852.438:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/171852.439:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/171852.461:WARNING:stunport.cc(384)] Jingle:Port[09297EA0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171852.461:WARNING:stunport.cc(384)] Jingle:Port[09297EA0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171852.551:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F38F70:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171852.552:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F36688:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171857.535:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/171857.537:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/171857.537:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/171857.578:WARNING:stunport.cc(384)] Jingle:Port[08F3D918:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171857.578:WARNING:stunport.cc(384)] Jingle:Port[08F3D918:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171857.685:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F374F8:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171857.694:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F391D8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171902.220:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171902.240:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171902.591:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171902.600:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/171904.230:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/171904.234:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/171904.235:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/171904.439:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F37760:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171904.451:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F361B8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171904.541:WARNING:stunport.cc(384)] Jingle:Port[08E70A58:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171904.541:WARNING:stunport.cc(384)] Jingle:Port[08E70A58:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171923.119:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:56161 (any)
+[0425/171932.269:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/171932.271:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/171932.272:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/171932.282:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:62840 (any)
+[0425/171932.292:WARNING:stunport.cc(384)] Jingle:Port[08E6FA68:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171932.292:WARNING:stunport.cc(384)] Jingle:Port[08E6FA68:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/171932.409:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F368F0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171932.409:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F379C8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/171937.399:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:62843 (any)
+[0425/171944.385:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:62846 (any)
+[0425/172012.124:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:62849 (any)
+[0425/172133.553:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/172133.615:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/172147.024:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172147.027:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172147.028:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172147.159:WARNING:stunport.cc(384)] Jingle:Port[08E70FA8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172147.160:WARNING:stunport.cc(384)] Jingle:Port[08E70FA8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172147.218:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F39440:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172147.219:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F39910:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172202.002:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172202.005:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172202.005:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172202.014:WARNING:stunport.cc(384)] Jingle:Port[08E68540:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172202.014:WARNING:stunport.cc(384)] Jingle:Port[08E68540:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172202.109:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F37C30:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172202.109:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F36B58:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172226.984:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:58296 (any)
+[0425/172241.831:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:55383 (any)
+[0425/172405.368:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172405.370:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172405.370:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172405.627:WARNING:stunport.cc(384)] Jingle:Port[1EB50020:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172405.651:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F374F8:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172405.674:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F37E98:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172405.835:WARNING:stunport.cc(384)] Jingle:Port[1EB50020:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172432.223:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172432.227:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172432.227:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172432.246:WARNING:stunport.cc(384)] Jingle:Port[08E67FF0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172432.247:WARNING:stunport.cc(384)] Jingle:Port[08E67FF0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172432.343:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F391D8:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172432.348:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F38368:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172445.539:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/172445.551:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/172445.615:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:55349 (any)
+[0425/172512.031:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:64975 (any)
+[0425/172513.857:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=1
+[0425/172520.044:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/172520.129:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/172522.933:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/172522.948:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/172527.275:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172527.278:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172527.278:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172527.789:WARNING:stunport.cc(384)] Jingle:Port[1EB50818:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172527.843:WARNING:stunport.cc(384)] Jingle:Port[1EB50818:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172527.876:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F39440:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172527.884:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F396A8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172540.283:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172540.285:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172542.712:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172545.627:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/172545.634:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/172546.549:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172546.552:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172546.552:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172546.845:WARNING:stunport.cc(384)] Jingle:Port[092983F0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172546.846:WARNING:stunport.cc(384)] Jingle:Port[092983F0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172546.920:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F38F70:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172546.921:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F39910:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172551.325:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172556.576:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172607.715:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:63934 (any)
+[0425/172619.126:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172619.132:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172619.133:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172619.258:WARNING:stunport.cc(384)] Jingle:Port[08ECF5D8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172619.258:WARNING:stunport.cc(384)] Jingle:Port[08ECF5D8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172619.368:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F38100:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172619.369:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F39B78:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172620.847:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172620.854:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172620.858:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172621.015:WARNING:stunport.cc(384)] Jingle:Port[2499A880:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172621.015:WARNING:stunport.cc(384)] Jingle:Port[2499A880:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172621.109:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F36DC0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172621.112:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F39DE0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172622.415:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172622.419:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172622.419:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172622.554:WARNING:stunport.cc(384)] Jingle:Port[1EB50570:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172622.555:WARNING:stunport.cc(384)] Jingle:Port[1EB50570:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172622.657:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F36420:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172622.658:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F36688:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172625.521:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172626.653:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:52922 (any)
+[0425/172631.012:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172637.423:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172638.405:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172644.255:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172647.778:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172649.438:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172649.441:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172649.441:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172649.740:WARNING:stunport.cc(384)] Jingle:Port[08E717A0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172649.752:WARNING:stunport.cc(384)] Jingle:Port[08E717A0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172649.789:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08344C50:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172649.790:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F4AD8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172650.794:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172650.804:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172650.804:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172651.012:WARNING:stunport.cc(384)] Jingle:Port[2499B078:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172651.012:WARNING:stunport.cc(384)] Jingle:Port[2499B078:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172651.119:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F5478:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172651.120:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F56E0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172651.720:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172652.834:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172656.243:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172658.461:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172659.019:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:52925 (any)
+[0425/172659.500:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172700.810:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:52928 (any)
+[0425/172701.380:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172702.339:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:52931 (any)
+[0425/172704.622:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172704.676:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172710.638:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172713.282:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172715.332:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172716.918:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172717.519:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172718.543:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172720.289:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172720.344:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172721.150:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/172721.221:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/172723.580:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172723.663:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172726.448:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172726.498:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172728.403:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172729.557:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:52934 (any)
+[0425/172730.873:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172730.875:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172733.497:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172733.542:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172736.895:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172737.006:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172738.232:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172739.063:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172741.456:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172741.789:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172743.217:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172744.953:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172746.314:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172746.333:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172746.359:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172746.359:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172746.702:WARNING:stunport.cc(384)] Jingle:Port[1EB50570:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172746.702:WARNING:stunport.cc(384)] Jingle:Port[1EB50570:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172746.793:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F5948:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172746.796:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F5478:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172749.554:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172752.866:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172752.878:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172753.741:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172754.681:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172754.683:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172754.683:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172755.081:WARNING:stunport.cc(384)] Jingle:Port[09297EA0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172755.149:WARNING:stunport.cc(384)] Jingle:Port[09297EA0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172755.159:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F4D40:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172755.159:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F56E0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172756.423:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172757.660:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172758.475:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172800.251:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172802.487:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172804.115:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172805.938:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172807.553:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172809.020:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172810.787:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172813.273:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172814.246:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172814.249:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172814.249:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172814.618:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172814.705:WARNING:stunport.cc(384)] Jingle:Port[1ACC4DC8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172814.706:WARNING:stunport.cc(384)] Jingle:Port[1ACC4DC8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172814.742:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F5BB0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172814.743:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F4870:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172816.042:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172817.754:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172819.356:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172822.187:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172822.223:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172824.376:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172826.492:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60789 (any)
+[0425/172826.678:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172827.089:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172829.016:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172830.966:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172832.378:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172835.003:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60792 (any)
+[0425/172838.011:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172839.000:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172839.030:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172839.039:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172841.176:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172841.604:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172848.800:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172852.556:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172854.483:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:55986 (any)
+[0425/172854.704:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172857.092:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172859.910:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172903.363:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172910.301:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172910.304:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172910.304:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172910.581:WARNING:stunport.cc(384)] Jingle:Port[1ACC3090:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172910.583:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F5E18:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172910.592:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F4FA8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172910.612:WARNING:stunport.cc(384)] Jingle:Port[1ACC3090:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172914.721:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/172914.869:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/172918.053:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172918.056:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172918.056:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172918.220:WARNING:stunport.cc(384)] Jingle:Port[1ACC35E0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172918.221:WARNING:stunport.cc(384)] Jingle:Port[1ACC35E0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172918.319:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F6080:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172918.319:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F6550:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172923.050:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172923.103:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172923.114:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172923.123:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172936.368:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/172936.372:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/172936.372:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/172936.632:WARNING:stunport.cc(384)] Jingle:Port[1ACC3888:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172936.632:WARNING:stunport.cc(384)] Jingle:Port[1ACC3888:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/172936.727:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F62E8:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172936.728:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F5210:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/172940.311:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172940.324:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172940.355:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172940.393:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172940.408:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172940.707:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172940.753:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172940.822:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172940.824:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172941.425:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/172941.474:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/172943.243:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172943.294:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172943.859:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172943.895:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172944.410:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172945.271:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172946.409:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/172950.362:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:55989 (any)
+[0425/172958.030:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60992 (any)
+[0425/172958.991:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/172959.008:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/173016.423:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60995 (any)
+[0425/173046.972:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173046.975:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173046.975:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173047.371:WARNING:stunport.cc(384)] Jingle:Port[1ACC4DC8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173047.434:WARNING:stunport.cc(384)] Jingle:Port[1ACC4DC8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173047.476:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F38100:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173047.477:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F38F70:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173059.059:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173059.061:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173059.061:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173059.343:WARNING:stunport.cc(384)] Jingle:Port[08E71A48:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173059.343:WARNING:stunport.cc(384)] Jingle:Port[08E71A48:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173059.404:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F39910:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173059.407:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F39B78:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173108.287:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173108.288:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173108.288:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173109.064:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F36420:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173109.069:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F36688:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173109.177:WARNING:stunport.cc(384)] Jingle:Port[1ACC3090:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173109.178:WARNING:stunport.cc(384)] Jingle:Port[1ACC3090:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173119.675:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173119.676:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173119.677:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173120.466:WARNING:stunport.cc(384)] Jingle:Port[08E6F7C0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173120.466:WARNING:stunport.cc(384)] Jingle:Port[08E6F7C0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173120.540:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F4FA8:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173120.541:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F4870:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173127.369:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60998 (any)
+[0425/173139.166:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:57295 (any)
+[0425/173148.486:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/173148.502:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/173148.983:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:57298 (any)
+[0425/173155.665:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173155.667:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173155.668:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173156.298:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F5210:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173156.298:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F5BB0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173156.463:WARNING:stunport.cc(384)] Jingle:Port[08E6F270:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173156.500:WARNING:stunport.cc(384)] Jingle:Port[08E6F270:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173200.292:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:57301 (any)
+[0425/173225.571:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/173225.576:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/173236.299:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:57304 (any)
+[0425/173258.157:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/173258.181:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/173310.439:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173310.441:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173310.441:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173310.808:WARNING:stunport.cc(384)] Jingle:Port[1ACC3888:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173310.843:WARNING:stunport.cc(384)] Jingle:Port[1ACC3888:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173310.888:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F5BB0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173310.889:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F5210:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173346.090:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173346.093:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173346.093:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173346.294:WARNING:stunport.cc(384)] Jingle:Port[092983F0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173346.294:WARNING:stunport.cc(384)] Jingle:Port[092983F0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173346.367:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F5E18:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173346.367:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F62E8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173350.643:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:50988 (any)
+[0425/173355.643:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173355.645:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173355.645:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173356.146:WARNING:stunport.cc(384)] Jingle:Port[08ECF5D8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173356.147:WARNING:stunport.cc(384)] Jingle:Port[08ECF5D8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173356.242:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F39DE0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173356.243:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B0245D8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173359.827:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=1
+[0425/173417.430:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/173417.609:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/173426.085:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:54823 (any)
+[0425/173435.986:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:54826 (any)
+[0425/173446.675:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173446.677:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173446.678:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173447.032:WARNING:stunport.cc(384)] Jingle:Port[1ACC3B30:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173447.033:WARNING:stunport.cc(384)] Jingle:Port[1ACC3B30:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173447.088:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B025B80:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173447.088:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B024F78:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173453.329:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173453.331:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173453.331:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173453.429:WARNING:stunport.cc(384)] Jingle:Port[09297EA0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173453.430:WARNING:stunport.cc(384)] Jingle:Port[09297EA0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173453.511:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B025DE8:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173453.523:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B023298:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173513.242:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173513.244:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173513.245:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173513.821:WARNING:stunport.cc(384)] Jingle:Port[2512C298:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173513.821:WARNING:stunport.cc(384)] Jingle:Port[2512C298:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173513.921:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B024108:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173513.922:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B026C58:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173520.307:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173520.309:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173520.309:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173520.800:WARNING:stunport.cc(384)] Jingle:Port[08E6DFD8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173520.800:WARNING:stunport.cc(384)] Jingle:Port[08E6DFD8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173520.891:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B0269F0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173520.892:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B023768:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173525.641:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173525.644:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173525.644:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173525.821:WARNING:stunport.cc(384)] Jingle:Port[1ACC3DD8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173525.822:WARNING:stunport.cc(384)] Jingle:Port[1ACC3DD8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173525.914:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B023EA0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173525.915:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B024370:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173526.872:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:54829 (any)
+[0425/173533.193:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60942 (any)
+[0425/173541.946:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173541.949:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173541.949:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173542.298:WARNING:stunport.cc(384)] Jingle:Port[08E6E280:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173542.298:WARNING:stunport.cc(384)] Jingle:Port[08E6E280:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173542.390:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B0239D0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173542.391:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B023C38:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173553.598:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60945 (any)
+[0425/173600.593:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60948 (any)
+[0425/173605.591:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60951 (any)
+[0425/173614.721:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/173614.752:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/173622.090:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:60954 (any)
+[0425/173703.524:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173703.530:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173703.530:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173705.242:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B025918:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173705.243:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B026050:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173705.563:WARNING:stunport.cc(384)] Jingle:Port[08E6E7D0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173705.569:WARNING:stunport.cc(384)] Jingle:Port[08E6E7D0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173720.649:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/173720.698:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/173745.358:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:61545 (any)
+[0425/173814.747:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/173814.747:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/173814.748:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/173814.753:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/173814.757:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/173814.757:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/173814.757:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/173817.023:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173817.024:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173817.024:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173817.063:WARNING:stunport.cc(384)] Jingle:Port[1EBE35A8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173817.073:WARNING:stunport.cc(384)] Jingle:Port[1EBE35A8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173817.143:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B025B80:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173817.143:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B025448:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173818.208:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173818.209:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173818.209:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173818.229:WARNING:stunport.cc(384)] Jingle:Port[1ACC4DC8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173818.229:WARNING:stunport.cc(384)] Jingle:Port[1ACC4DC8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173818.329:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B024AA8:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173818.329:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B0262B8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173850.050:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/173850.063:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/173856.841:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:53653 (any)
+[0425/173858.002:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:55647 (any)
+[0425/173914.444:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/173914.487:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/173950.753:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/173950.757:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/173950.757:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/173951.622:WARNING:stunport.cc(384)] Jingle:Port[09BA2AE8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173951.661:WARNING:stunport.cc(384)] Jingle:Port[09BA2AE8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/173951.693:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B023298:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/173951.693:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B025DE8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174001.059:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174003.725:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/174003.733:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/174003.734:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/174005.572:WARNING:stunport.cc(384)] Jingle:Port[1ACC4878:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174005.573:WARNING:stunport.cc(384)] Jingle:Port[1ACC4878:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174005.659:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B023500:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174005.660:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B0251E0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174031.479:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:49779 (any)
+[0425/174045.444:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:53606 (any)
+[0425/174057.950:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/174057.960:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/174057.961:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/174058.580:WARNING:stunport.cc(384)] Jingle:Port[09297EA0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174058.688:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B026C58:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174058.689:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B024840:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174058.754:WARNING:stunport.cc(384)] Jingle:Port[09297EA0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174137.102:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/174137.105:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/174137.106:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/174137.139:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/174137.142:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/174137.142:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/174138.564:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:53609 (any)
+[0425/174142.326:WARNING:stunport.cc(384)] Jingle:Port[09BA1300:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174142.326:WARNING:stunport.cc(384)] Jingle:Port[09BA1300:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174142.327:WARNING:stunport.cc(384)] Jingle:Port[09BA22F0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174142.327:WARNING:stunport.cc(384)] Jingle:Port[09BA22F0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174142.382:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B023EA0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174142.382:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B023030:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174142.383:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B024108:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174142.383:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B026788:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174146.731:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/174146.736:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/174146.736:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/174147.624:WARNING:stunport.cc(384)] Jingle:Port[2F2DB2E0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174147.624:WARNING:stunport.cc(384)] Jingle:Port[2F2DB2E0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174147.712:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B024370:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174147.712:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B024AA8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174155.285:WARNING:rtpsender.cc(275)] ClearAudioSend: No audio channel exists.
+[0425/174155.295:WARNING:rtpsender.cc(275)] ClearAudioSend: No audio channel exists.
+[0425/174201.623:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/174201.630:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/174201.630:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/174202.190:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174202.683:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B025448:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174202.690:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B0262B8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174202.692:WARNING:stunport.cc(384)] Jingle:Port[08E6EA78:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174202.693:WARNING:stunport.cc(384)] Jingle:Port[08E6EA78:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174208.301:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174208.317:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174208.331:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174208.344:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174210.093:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174212.932:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174214.103:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/174214.112:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/174214.113:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/174214.998:WARNING:stunport.cc(384)] Jingle:Port[08E714F8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174214.998:WARNING:stunport.cc(384)] Jingle:Port[08E714F8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174215.017:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B024D10:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174215.020:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B024F78:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174220.035:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174222.115:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:59681 (any)
+[0425/174222.118:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:59683 (any)
+[0425/174227.498:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:59686 (any)
+[0425/174230.720:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/174230.822:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/174242.513:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:59689 (any)
+[0425/174246.344:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174246.387:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174246.479:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174246.482:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174254.848:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:61607 (any)
+[0425/174257.631:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174257.770:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174257.812:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174257.951:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174257.969:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174258.131:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174258.137:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174259.879:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/174300.111:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/174300.111:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/174302.211:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B0256B0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174302.212:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B025B80:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174302.212:WARNING:stunport.cc(384)] Jingle:Port[2F2DCD70:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174302.212:WARNING:stunport.cc(384)] Jingle:Port[2F2DCD70:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174305.553:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174305.633:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174305.645:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174305.687:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174305.701:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174307.624:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174327.593:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174342.212:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:61610 (any)
+[0425/174500.417:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/174500.454:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/174500.456:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/174502.592:WARNING:stunport.cc(384)] Jingle:Port[1ACC3B30:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174502.628:WARNING:stunport.cc(384)] Jingle:Port[1ACC3B30:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174502.640:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F4870:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174502.642:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F62E8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174503.423:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/174503.425:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/174503.426:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/174504.787:WARNING:stunport.cc(384)] Jingle:Port[09BA2840:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174504.787:WARNING:stunport.cc(384)] Jingle:Port[09BA2840:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174504.900:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F5BB0:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174504.921:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F4D40:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174508.892:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/174509.113:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/174538.231:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/174538.549:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/174542.431:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:51014 (any)
+[0425/174544.722:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:64474 (any)
+[0425/174555.919:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174556.070:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174556.070:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174556.071:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174556.188:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174556.232:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174627.169:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/174627.175:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/174627.175:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/174628.595:WARNING:stunport.cc(384)] Jingle:Port[1ACC4DC8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174628.611:WARNING:stunport.cc(384)] Jingle:Port[1ACC4DC8:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174628.678:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F5210:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174628.680:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[249F56E0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174634.279:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/174634.282:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/174634.282:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/174636.222:WARNING:stunport.cc(384)] Jingle:Port[08E707B0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174636.223:WARNING:stunport.cc(384)] Jingle:Port[08E707B0:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174636.264:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F38F70:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174636.265:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[08F37760:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174638.318:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/174638.329:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/174704.854:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/174704.880:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/174708.426:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:64810 (any)
+[0425/174716.042:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:54716 (any)
+[0425/174758.722:WARNING:rtp_rtcp_impl.cc(168)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No RTCP RR received.
+[0425/174758.776:WARNING:rtp_rtcp_impl.cc(170)] webrtc::ModuleRtpRtcpImpl::Process: Timeout: No increase in RTCP RR extended highest sequence number.
+[0425/174805.374:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174843.128:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174843.128:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174843.129:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174843.129:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174843.129:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174843.133:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174843.148:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174850.500:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174852.459:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/174852.461:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/174852.461:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/174852.558:WARNING:delay_based_bwe.cc(440)] BWE Setting start bitrate to: 300000
+[0425/174852.562:WARNING:audio_send_stream.cc(299)] SetSendCodec() failed.
+[0425/174852.562:ERROR:audio_send_stream.cc(93)] Failed to set up send codec state.
+[0425/174854.240:WARNING:stunport.cc(384)] Jingle:Port[1ACC4878:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174854.240:WARNING:stunport.cc(384)] Jingle:Port[1ACC4080:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174854.319:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B023500:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174854.340:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B024370:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174854.341:WARNING:stunport.cc(384)] Jingle:Port[1ACC4878:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174854.341:WARNING:stunport.cc(384)] Jingle:Port[1ACC4080:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0425/174854.368:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B024AA8:audio:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174854.371:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[2B026520:audio:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/174859.793:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174859.811:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174859.842:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174859.848:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174859.871:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174859.932:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174905.193:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174905.201:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174905.280:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174907.018:WARNING:packet_buffer.cc(86)] Packet buffer flushed
+[0425/174934.422:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:51560 (any)
+[0425/174934.423:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:51562 (any)
+[0425/175018.495:WARNING:rtpsender.cc(275)] ClearAudioSend: No audio channel exists.

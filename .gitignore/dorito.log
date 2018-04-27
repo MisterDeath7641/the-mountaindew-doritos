@@ -1,0 +1,5 @@
+[18:41:27] Debug - EXCEPTION_ACCESS_VIOLATION - tried to read address 00000008
+[18:41:27] Debug - Code: 0xc0000005, flags: 0x0, record: 0x0, addr: 0x64b2e32a, numparams: 0x2, last tag accessed: 0xffffffff,  last tag resource: 0xffffffff, last script op: 0xffffffff
+[18:41:27] Debug - 0x64A50000 - 0x64F1B000 | 0x64CEB60B | C:\Users\mrdea\Desktop\games\Halo_Online_0.6\Halo_Online\mtndew.dll
+[21:29:02] Network - websocketpp: Underlying Transport Error
+[22:51:18] Network - websocketpp: Underlying Transport Error
